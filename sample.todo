@@ -1,0 +1,20 @@
+Projects:
+ ☐ Anything with colon at the end of the line is a project title @project @today
+ ☐ You can nest projects inside each other @project
+ ☐ You can fold projects (a built-in editor feature)
+
+Tasks:
+ ☐ Press ⌘+enter (ctrl+enter on Windows) to add a new task.
+ ✘ You can also use ⌘+i to add new task @cancelled (23-03-15 19:03)
+ ☐ If you're on a new line PlainTasks will create a new task on the current line
+ ☐ New tasks will be nested as much as the task on the previous line
+ ✔ Pressing ⌘+d (ctrl+d on Windows) mark a task as done @done (23-03-15 19:03)
+ ☐ Pressing ⌘+d (ctrl+d on Windows) again will put it back in pending mode
+ ☐ type s, press tab key twice - it'll become @started(23-03-15 19:02)
+ ☐ type t, press tab key - it'll become @today
+ ☐ You can also add tags. It looks like this: @tag
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Archive:
+ ✔ learn how to use PlainTasks @done (23-03-15 19:02) @project(Tasks)
+ ✔ Pressing ctrl+c will mark the task as cancelled @done (23-03-15 19:02) @project(Tasks)

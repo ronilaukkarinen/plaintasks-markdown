@@ -1,0 +1,39 @@
+{
+  "open_tasks_bullet": "☐", // options: - | ❍ | ❑ | ■ | □ | ☐ | ▪ | ▫ | – | — ≡ → › | [ ]
+  "done_tasks_bullet": "✔", // options: + | ✓ | ✔ | √ | [x]
+  "cancelled_tasks_bullet": "✘", // options: x | ✘ | [-]
+  "before_tasks_bullet_margin": 1,
+  "date_format": "(%d-%m-%y %H:%M)",
+  "done_tag": true, // related to @cancelled as well
+  "project_tag": true, // if true - postfix archived task with project tag, if false - prefix
+  "archive_name": "Archive:", // make sure it is the unique project name within your todo files
+  "indent_after_task": false, // indenting the next line after tasks
+  "new_on_top": true, // how to sort archived tasks
+
+  "color_scheme": "Packages/PlainTasks/tasks-markdown.hidden-tmTheme",
+  "font_size": 15,
+  "font_face": "Helvetica",
+  "draw_indent_guides": false,
+  "line_numbers": false,
+  "gutter": true,
+  "margin": 2,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "use_tab_stops": false,
+  "match_brackets": false,
+  "fold_buttons": true,
+  "fade_fold_buttons": true,
+  "line_padding_bottom": 3,
+  "line_padding_top": 3,
+  "draw_centered": true,
+  "word_wrap": true,
+  "wrap_width": 50,
+  "extensions":
+  [
+    "TODO",
+    "todo",
+    "todolist",
+    "taskpaper",
+    "tasks"
+  ]
+}
