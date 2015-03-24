@@ -48,95 +48,95 @@
                 <string>#ADADAD</string>
             </dict>
         </dict>
-		<dict>
-			<key>name</key>
-			<string>Pending bullet</string>
-			<key>scope</key>
-			<string>punctuation.definition.bullet.pending</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#aaaaaa</string>
-				<key>fontStyle</key>
-				<string>normal</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Done bullet</string>
-			<key>scope</key>
-			<string>punctuation.definition.bullet.completed</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#27ae60</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cancelled bullet</string>
-			<key>scope</key>
-			<string>punctuation.definition.bullet.cancelled</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#c0392b</string>
-				<key>fontStyle</key>
-				<string>normal</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cancelled task</string>
-			<key>scope</key>
-			<string>meta.item.todo.cancelled</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#aaaaaa</string>
-				<key>fontStyle</key>
-				<string></string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Done meta info</string>
-			<key>scope</key>
-			<string>meta.tag.todo.completed</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#bbbbbb</string>
-				<key>fontStyle</key>
-				<string></string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Archive Separator</string>
-			<key>scope</key>
-			<string>meta.punctuation.archive.todo</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#00000022</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tags</string>
-			<key>scope</key>
-			<string>meta.tag.todo</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#A02E2B</string>
-				<key>fontStyle</key>
-				<string>bold</string>
-			</dict>
-		</dict>
+        <dict>
+            <key>name</key>
+            <string>Pending bullet</string>
+            <key>scope</key>
+            <string>punctuation.definition.bullet.pending</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#aaaaaa</string>
+                <key>fontStyle</key>
+                <string>normal</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Done bullet</string>
+            <key>scope</key>
+            <string>punctuation.definition.bullet.completed</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#27ae60</string>
+                <key>fontStyle</key>
+                <string>bold</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Cancelled bullet</string>
+            <key>scope</key>
+            <string>punctuation.definition.bullet.cancelled</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c0392b</string>
+                <key>fontStyle</key>
+                <string>normal</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Cancelled task</string>
+            <key>scope</key>
+            <string>meta.item.todo.cancelled</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#aaaaaa</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Done meta info</string>
+            <key>scope</key>
+            <string>meta.tag.todo.completed</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#bbbbbb</string>
+                <key>fontStyle</key>
+                <string></string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Archive Separator</string>
+            <key>scope</key>
+            <string>meta.punctuation.archive.todo</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#00000022</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Tags</string>
+            <key>scope</key>
+            <string>meta.tag.todo</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#A02E2B</string>
+                <key>fontStyle</key>
+                <string>bold</string>
+            </dict>
+        </dict>
         <dict>
             <key>name</key>
             <string>Comments: Preprocessor</string>
@@ -201,7 +201,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#61862F</string>
+                <string>#2980b9</string>
             </dict>
         </dict>
         <dict>
