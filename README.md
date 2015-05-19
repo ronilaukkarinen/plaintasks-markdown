@@ -11,6 +11,6 @@ There are not many [PlainTask](https://github.com/aziz/PlainTasks)-themes out th
 
 ## Installation
 
-On a Mac, go to `Sublime Text → Preferences → Browse Packages`, then to `PlainTasks`, and drop the `tasks-markdown.hidden-tmTheme`-file there. Then open the PlainTasks-Settings by going to `Sublime Text → Package Settings → PlainTasks → Settings – User` and paste the contents of the `PlainTasks.sublime-settings`-file into it.
+On a Mac, go to `Sublime Text → Preferences → Browse Packages` and drop the `tasks-markdown.hidden-tmTheme` file to root folder. Then open the PlainTasks-Settings by going to `Sublime Text → Package Settings → PlainTasks → Settings – User` and paste the contents of the `PlainTasks.sublime-settings`-file into it.
 
 Restart Sublime Text and you are ready to roll.
